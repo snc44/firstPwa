@@ -1,0 +1,6 @@
+{
+  "name": "Goods Store",
+  "short_name": "GoodsStore",
+  "start_url": "/index.html",
+  "display": "standalone"
+}
